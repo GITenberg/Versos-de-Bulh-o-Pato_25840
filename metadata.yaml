@@ -1,0 +1,30 @@
+_repo: Versos-de-Bulh-o-Pato_25840
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pato, Raimundo António de Bulhão
+    aliases:
+    - Pato, Raymundo Antonio de Bulhão
+    - Pato, Raimundo Antonio de Bulhao
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '9325'
+    url: http://www.gutenberg.org/2009/agents/9325
+    wikipedia: http://pt.wikipedia.org/wiki/Raimundo_Ant%C3%B3nio_de_Bulh%C3%A3o_Pato
+description: ''
+gutenberg_issued: '2008-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25840'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry'
+- !lcc 'PQ'
+title: Versos de Bulhão Pato
+url: http://www.gutenberg.org/ebooks/25840
